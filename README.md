@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratheeksha</h1>
 <h3 align="center">Software Systems Student</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratheeksha191&label=Profile%20views&color=0e75b6&style=flat" alt="pratheeksha191" /> </p>
 
 - 🌱 I’m currently learning **React**
@@ -11,6 +10,8 @@
 - 💬 Ask me about **DBMS, HTML, CSS, JAVASCRIPT, JAVA**
 
 - 📫 How to reach me **pratheeksha1002@gmail.com**
+
+- ⚡ Pronouns **She/Her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratheeksha191&show_icons=true&locale=en" alt="pratheeksha191" /></p>
 
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratheeksha191&" alt="pratheeksha191" /></p>
