@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratheeksha</h1>
 <h3 align="center">Software Systems Student</h3>
+![github](https://user-images.githubusercontent.com/79851078/152790840-2d04e49b-a822-4716-be47-ec32ccdeef76.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratheeksha191&label=Profile%20views&color=0e75b6&style=flat" alt="pratheeksha191" /> </p>
 
@@ -26,4 +27,3 @@
 
 ![github](https://user-images.githubusercontent.com/79851078/152790840-2d04e49b-a822-4716-be47-ec32ccdeef76.gif)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratheeksha191&" alt="pratheeksha191" /></p>
