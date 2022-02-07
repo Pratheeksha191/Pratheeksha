@@ -1,3 +1,4 @@
+![github](https://user-images.githubusercontent.com/79851078/152790840-2d04e49b-a822-4716-be47-ec32ccdeef76.gif)
 <h1 align="center">Hi 👋, I'm Pratheeksha</h1>
 <h3 align="center">Software Systems Student</h3>
 
