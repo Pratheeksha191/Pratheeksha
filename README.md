@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratheeksha191/](https://github.com/Pratheeksha191/)
 
-- 💬 Ask me about **DBMS, HTML, CSS, JAVASCRIPT, JAVA**
+- 💬 Ask me about **DBMS, HTML, CSS, JAVASCRIPT, C++, PYTHON, REACTJS**
 
 - 📫 How to reach me **pratheeksha1002@gmail.com**
 
